@@ -1,0 +1,6 @@
+{
+  "name": "LectureNote AI",
+  "description": "An intelligent student assistant that automatically attends online lectures, webinar sessions, and recorded videos, capturing live audio and screens to generate study notes, summaries, revision cards, and quizzes.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

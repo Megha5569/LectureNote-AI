@@ -1,4 +1,15 @@
 
+<p align="left">
+  <img width="1599" height="759" alt="image" src="https://github.com/user-attachments/assets/2e20098d-4151-454f-a919-375d71a8ce5d" />
+
+ <img width="1599" height="763" alt="image" src="https://github.com/user-attachments/assets/bc41f3f2-99ac-4cc3-a47e-626580803486" />
+
+ <img width="792" height="665" alt="image" src="https://github.com/user-attachments/assets/f432139d-f68e-4159-9ae5-abd2552d2486" />
+ <img width="399" height="224" alt="image" src="https://github.com/user-attachments/assets/20ba3d21-fe9a-474d-87b0-4f6013683469" />
+
+
+   
+</p>
 
 # Run and deploy your AI Studio app
 
